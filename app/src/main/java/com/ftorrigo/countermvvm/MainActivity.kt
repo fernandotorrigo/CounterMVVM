@@ -10,7 +10,7 @@ import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.ftorrigo.countermvvm.ui.screens.CounterScreen
 import com.ftorrigo.countermvvm.ui.theme.CounterMVVMTheme
-import com.ftorrigo.countermvvm.ui.viewmodel.CounterScreenViewModel
+import com.ftorrigo.countermvvm.viewmodel.CounterScreenViewModel
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
