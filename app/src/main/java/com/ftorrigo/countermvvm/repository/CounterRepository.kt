@@ -3,16 +3,16 @@ package com.ftorrigo.countermvvm.repository
 import com.ftorrigo.countermvvm.model.CounterModel
 
 class CounterRepository {
-    private var counter = CounterModel(0)
+    private var _counter = CounterModel(0)
 
-    fun getCounter() = counter
+    fun getCounter() = _counter
 
     fun incrementCounter() {
-        counter.cont++
+        _counter.count++
     }
 
     fun decrementCounter() {
-        counter.cont--
+        _counter.count--
     }
 
 }
