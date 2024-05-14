@@ -7,6 +7,7 @@ App to study MVVM with a simple counter
 Application is a just a counter.
 
 ## 🔨 CounterMVVM demonstration
+<img width="241" alt="image" src="https://github.com/fernandotorrigo/CounterMVVM/assets/19911585/a954cf54-4a68-41a3-bd9e-7fc9f6f6670d">
 
 
 
